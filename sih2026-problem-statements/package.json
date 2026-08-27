@@ -1,0 +1,20 @@
+{
+  "name": "sih26ps",
+  "version": "1.0.0",
+  "description": "SIH 2026 Problem Statement Research Explorer & Scraper",
+  "main": "app.js",
+  "scripts": {
+    "start": "node -e 'require(\"http\").createServer((req,res)=>require(\"serve-handler\")(req,res)).listen(8080)'"
+  },
+  "keywords": [
+    "sih2026",
+    "hackathon",
+    "scraper",
+    "research"
+  ],
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "puppeteer": "^24.4.0"
+  }
+}

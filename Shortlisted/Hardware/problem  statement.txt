@@ -1,0 +1,5 @@
+Smart Crop Advisory Systems: Build soil moisture, temperature, and NPK monitoring prototypes that send data over Wi-Fi to an AI recommendation interface.
+
+Real-Time Water Quality Trackers: Measure pH, turbidity, and temperature in local water sources using low-cost probes connected to an ESP32.
+
+Environmental & Air Pollution Monitors: Deploy particulate or gas sensors to stream real-time local air data to a central civic monitoring portal.
