@@ -1,0 +1,27 @@
+1. SIH26002 — AI-Based Smart Logistics & Accessibility
+ idea: Build a Disaster-Aware Logistics Control Room.
+AI continuously analyzes things like weather, rainfall, landslide/flood risk, road conditions and field reports to predict which routes may get disrupted.
+If a medicine/food/essential-supply vehicle is travelling on that route:
+Predict disruption → mark affected road → find safest/fastest alternate route → calculate delay → alert authority → redirect vehicle.
+We can have a live GIS map with  open,  risky and  blocked roads + live vehicle tracking.
+
+
+ 2. SIH26047 — Patient Case-Taking Software
+ idea: Build an AI Pre-Consultation Assistant for hospitals.
+Instead of the doctor spending the first few minutes asking basic history, the patient interacts with our AI through voice/touch in their preferred language.
+Patient speaks → AI asks adaptive follow-up questions → collects medical history → scans previous reports/prescriptions → extracts relevant information → creates a structured doctor-ready summary.
+We can also have a red-flag engine. For example, if the patient reports certain emergency symptoms, the system doesn't diagnose them — it simply flags the case for priority attention by hospital staff.
+Doctor then gets:
+Current complaint + history + previous medicines/reports + timeline + red flags → editable summary → doctor confirms it.
+
+ 3. SIH26111 — Smart AI-Enabled Rapid Feed & Silage Quality Testing
+idea: Build an AI Feed Quality Assistant for Dairy Farmers.
+A farmer provides a feed/silage sample and basic information about it. Our system uses AI to rapidly screen/assess quality, identify potential quality concerns and give an understandable result instead of a complicated technical report.
+Sample/photo + farmer inputs → AI analysis → quality assessment → explain WHY → recommendations → save result in farm history.
+We can show:
+ Good Quality
+ Moderate / Needs Attention
+ Potential Quality Issue
+And instead of just giving a score:
+“Why?” → visual/observed indicators + relevant factors → “What should I do?”
+We can also maintain feed-quality history for the farm and potentially make the application offline-first for rural areas.
